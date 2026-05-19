@@ -51,7 +51,7 @@
     "mdLink": "popTeal",
     "mdLinkUrl": "textMuted",
     "mdCode": "popCyan",
-    "mdCodeBlock": "",
+    "mdCodeBlock": "#89DDFF",
     "mdCodeBlockBorder": "borderColor",
     "mdQuote": "textMuted",
     "mdQuoteBorder": "popTeal",
