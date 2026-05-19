@@ -35,8 +35,8 @@
     "text": "",
     "thinkingText": "textMuted",
 
-    "selectedBg": "#3B3735",
-    "userMessageBg": "bgElevated",
+    "selectedBg": "#3f3b39",
+    "userMessageBg": "#3f3b39",
     "userMessageText": "",
     "customMessageBg": "bgSurface",
     "customMessageText": "",
