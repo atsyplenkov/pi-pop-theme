@@ -1,4 +1,4 @@
-# Pop Dark for Pi Agent Harness
+# Pop Theme for Pi Coding Agent
 
 A port of the Pop!_OS design language for the [Pi Agent Harness](https://github.com/earendil-works/pi).
 
@@ -6,9 +6,19 @@ A port of the Pop!_OS design language for the [Pi Agent Harness](https://github.
 
 This theme brings the warm browns, electrifying teals, and scintillating tangerines of System76's Pop!_OS to Pi. It is based on the color scheme originally ported to VS Code by [ArtisanByteCrafter](https://github.com/ArtisanByteCrafter/VSCodePopTheme) and the Zed theme by Anatoly Tsyplenkov.
 
-## Preview
+## Gallery
+#### `01` Pop Dark
 
-TBA
+<p align="center">
+    <img src="assets/dark-1.png" width=800>
+</p>
+<p align="center">
+    <img src="assets/dark-2.png" width=800>
+</p>
+
+#### `02` Pop Light
+
+**TBA**
 
 ## Installation
 
