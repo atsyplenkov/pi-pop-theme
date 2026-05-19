@@ -52,13 +52,14 @@ Changes to the file will hot-reload in Pi.
 
 ## See also
 
-* [**Zed Pop Theme**](https://github.com/atsyplenkov/zed-pop-theme) — The original Zed editor port (this theme's parent)
-* [**VS Code Pop Theme**](https://github.com/ArtisanByteCrafter/VSCodePopTheme) — The original VS Code port by ArtisanByteCrafter
+* [**VS Code Pop Theme**](https://github.com/ArtisanByteCrafter/VSCodePopTheme) — The original VS Code port by [@ArtisanByteCrafter](https://github.com/ArtisanByteCrafter)
+* [**Zed Pop Theme**](https://github.com/atsyplenkov/zed-pop-theme) — The  Zed editor port (this theme's parent)
 
 ## Acknowledgements
 
 - [**@ArtisanByteCrafter**](https://github.com/ArtisanByteCrafter/VSCodePopTheme) — The original VS Code port of the Pop!_OS theme
 - [System76](https://system76.com/) — Creators of Pop!_OS and the original design language
+- This project has made use of AI-assisted pair programming using `Kimi-K2.5` and `Pi`
 
 ## License
 
