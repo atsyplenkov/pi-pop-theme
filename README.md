@@ -48,7 +48,7 @@ cd pi-pop-theme
 ln -sf "$(pwd)/themes/pop-dark.json" ~/.pi/agent/themes/pop-dark.json
 ```
 
-Changes to the file will hot-reload in Pi.
+Changes to the file will hot-reload in Pi via `/reload`.
 
 ## See also
 
