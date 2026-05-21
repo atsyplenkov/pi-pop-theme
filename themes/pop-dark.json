@@ -74,8 +74,8 @@
 
     "thinkingOff": "#574F4A",
     "thinkingMinimal": "#6B6560",
-    "thinkingLow": "#00616F",
-    "thinkingMedium": "popTeal",
+    "thinkingLow": "#bdbdbd",
+    "thinkingMedium": "#009587",
     "thinkingHigh": "popCyan",
     "thinkingXhigh": "popOrange",
 
